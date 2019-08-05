@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="result">Result</string>
+    <string name="button">Button</string>
+    <string name="number1">number1</string>
+    <string name="number2">number2</string>
+    <string name="row1">row1</string>
+    <string name="row2">row2</string>
+</resources>
